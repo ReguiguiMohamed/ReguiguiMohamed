@@ -1,73 +1,73 @@
-<h1 align="center">Mohamed Reguigui </h1>
-<h3 align="center">A Dedicated Computer Science Student from Tunisia</h3>
+# Mohamed Reguigui
+**Full-Stack Developer | Computer Science Student**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reguiguimohamed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=reguiguimohamed&label=Profile%20views&color=0e75b6&style=flat" alt="reguiguimohamed" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=reguiguimohamed&theme=onedark" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=reguiguimohamed&theme=dark&no-frame=true&margin-w=4" alt="reguiguimohamed" />
   </a>
 </p>
 
 ---
 
-###  About Me
--  I have experience with **Python,C#, MS-SQL, Linux-Docker,Java**
--  Reach me at **mohamedreguigui2004@gmail.com**
--  **quick learner and adaptable to new challenges**
+## About
+
+I'm a Computer Science student from Tunisia with experience in full-stack development. I build scalable web applications and focus on clean, efficient code. Quick learner who adapts well to new technologies and challenges.
+
+**Contact:** mohamedreguigui2004@gmail.com
 
 ---
 
-### 📬 Connect with Me:
+## Technical Skills
+
+**Languages**
 <p align="left">
-  <a href="mailto:mohamedreguigui2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mohamed-reguigui-47a3a82b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js,ts" />
 </p>
 
----
-
-### 🛠️ Languages & Tools:
+**Frontend**  
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-  
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css" />
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs" />
+</p>
+
+**Database & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb,linux,docker,git" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reguiguimohamed&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+## Connect
+
+<p align="left">
+  <a href="mailto:mohamedreguigui2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-reguigui-47a3a82b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reguiguimohamed&theme=dark" alt="GitHub Streak" />
-</p>
+---
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reguiguimohamed&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reguiguimohamed&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reguiguimohamed&theme=dark" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reguiguimohamed&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</div>
