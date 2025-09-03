@@ -1,5 +1,5 @@
 # Mohamed Reguigui
-**Full-Stack Developer | Computer Science Student**
+**Data Engineering Student**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=reguiguimohamed&label=Profile%20views&color=0e75b6&style=flat" alt="reguiguimohamed" />
