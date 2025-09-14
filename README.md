@@ -22,19 +22,25 @@ Computer Science student from Tunisia specializing in data engineering with hand
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reguiguimohamed&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reguiguimohamed&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=reguiguimohamed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=reguiguimohamed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reguiguimohamed&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reguiguimohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=reguiguimohamed&style=flat-square&color=blue" alt="Profile Views"/>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=reguiguimohamed&style=for-the-badge&color=0078D4&label=Profile%20Views)
+
+
+
 </div>
