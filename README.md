@@ -75,7 +75,6 @@ The repositories hold these tensions and experiments. Feel *'free'* to explore t
 
 If you work on data infrastructure or want to discuss the ideas behind the systems, reach out.
 
-Depth preferred over small talk.
 
 ---
 
