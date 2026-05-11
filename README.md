@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
----
+
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ The repositories hold these tensions and experiments. Feel *'free'* to explore t
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=reguiguimohamed&style=for-the-badge&color=6B46C1&label=Profile%20Views" alt="Profile Views" />
 </div>
----
+
 
 <table>
   <tr>
@@ -85,7 +85,7 @@ The repositories hold these tensions and experiments. Feel *'free'* to explore t
           <font face="Georgia, serif">
             <i>
               One must still have chaos in oneself to be able to give birth to a dancing star.<br>
-              — Nietzsche
+              ~Nietzsche
             </i>
           </font>
         </p>
