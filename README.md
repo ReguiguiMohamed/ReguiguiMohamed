@@ -18,11 +18,11 @@
       <p align="justify">
         <font face="Georgia, serif">
           <i>
-            I design scalable data systems while confronting deeper questions about power, memory, control, and the fragility of order in a chaotic world.
+            I design scalable data systems while dealing with deeper questions of power, memory, control and the fragile nature of order in a chaotic world.
             <br><br>
-            As a computer science student focused on data engineering, I work on pipelines and infrastructure that transform noise into signal. The technical work is precise, yet it constantly collides with philosophical undercurrents — how much of what we build simply mirrors the absurd bureaucracies we try to escape?
+            I work on pipelines and infrastructure that transform noise into signal as a data engineering student. How much of what we create just reflects the ridiculous bureaucracies we attempt to avoid? The technical work is precise, yet it constantly conflicts with philosophical implications.
             <br><br>
-            My thinking often swings between sharp focus and scattered spirals. Some days the architecture aligns cleanly. Others feel like moving through layers of complexity that resist simplification. I find echoes of Kafka in data governance and return to Nietzsche when systems reveal their own contradictions.
+I often swing between sharp focus and uncontrolled waves in my thoughts. There are days when the architecture is perfectly done. Others feel like exploring layers of complexity that are hard to simplify. Data governance reminds me of Kafka, and when systems reveal their own contradictions, I go back to Nietzsche.
           </i>
         </font>
       </p>
