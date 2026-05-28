@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="./medreg.png" width="100%" alt="Mohamed Reguigui"/>
-</div>
-
-
-
-<div align="center">
   <a href="https://www.linkedin.com/in/mohamed-reguigui-47a3a82b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
