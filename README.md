@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="./reguigui_banner_flipped.svg" width="100%" alt="Mohamed Reguigui"/>
+  <img src="./medreg.png" width="100%" alt="Mohamed Reguigui"/>
 </div>
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-reguigui-47a3a82b8/">
